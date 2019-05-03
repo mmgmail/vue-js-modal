@@ -711,7 +711,7 @@ export default {
 
 .v--modal-overlay .v--modal-box {
   position: relative;
-  overflow: hidden;
+  /* overflow: hidden; */
   box-sizing: border-box;
 }
 
